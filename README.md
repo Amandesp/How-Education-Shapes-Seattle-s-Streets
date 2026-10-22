@@ -17,17 +17,25 @@ The goal was to better understand how education and economic conditions relate t
 
 Examines reported crime categories in Seattle from 2020 through 2025, with a focus on violent crime and comparisons with property crime and other offenses.
 
+<img width="618" height="263" alt="Screenshot 2026-10-22 at 2 05 01 PM" src="https://github.com/user-attachments/assets/a0bc9697-2783-4990-aa2f-bbb4a26010c0" />
+
 ### Figure B: Poverty Levels Across Seattle Neighborhoods
 
 Compares the number of residents within selected income-to-poverty-ratio categories across seven Seattle neighborhoods using 2024 ACS five-year estimates.
+
+<img width="557" height="188" alt="Screenshot 2026-10-22 at 2 06 17 PM" src="https://github.com/user-attachments/assets/33fcd2d7-2d5d-4dfb-bf30-2327ba867928" />
 
 ### Figure C: Household Income Distribution
 
 Compares household counts across income brackets below $100,000 in seven Seattle neighborhoods using 2024 ACS five-year estimates.
 
+<img width="704" height="312" alt="Screenshot 2026-10-22 at 2 07 19 PM" src="https://github.com/user-attachments/assets/2166ed74-09b4-4099-ae39-b879a347b587" />
+
 ### Figure D: Education Levels Across Seattle Neighborhoods
 
 Explores educational attainment across selected Seattle neighborhoods using neighborhood-level ACS data.
+
+<img width="679" height="308" alt="Screenshot 2026-10-22 at 2 08 18 PM" src="https://github.com/user-attachments/assets/f93c256c-9df0-4c6f-9ab0-847e88917fb0" />
 
 ## Key Findings
 
